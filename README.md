@@ -19,7 +19,7 @@ I build and maintain practical web systems, focusing on **Laravel, PHP, REST API
 ## Portfolio & contact
 
 - 🌐 [Portfolio](https://moheb-alhuani.web.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/moheb-huani-843353251/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/moheb-al-huani-843353251/)
 - 📄 [English CV](https://moheb-alhuani.web.app/assets/cv/Moheb-Al-Huani-CV-EN.pdf) · [Arabic CV](https://moheb-alhuani.web.app/assets/cv/Moheb-Al-Huani-CV-AR.pdf)
 - ✉️ [Email](mailto:eng.mohab.huani@gmail.com)
 
