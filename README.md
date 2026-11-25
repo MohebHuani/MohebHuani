@@ -9,12 +9,13 @@ I design, build, and maintain production web systems, specializing in **Laravel,
 - **SMSM Market** — Production e-commerce marketplace. Built and maintained the Laravel storefront, merchant/admin dashboards, RESTful APIs, payment & delivery integrations, and the backend powering customer/seller mobile apps. [Case Study](https://moheb-alhuani.web.app/case/smsm/)
 - **Moka Sweets** — Online sweets ordering platform. Developed the Laravel backend, admin dashboard, website frontend, and REST APIs consumed by the Flutter customer app *(the Flutter mobile UI is built by another developer)*. [Case Study](https://moheb-alhuani.web.app/case/moka/)
 - **Smart Delivery** — Multi-category ordering and delivery platform. Built the Laravel backend services, order/store/delivery workflows, and REST APIs consumed by Flutter mobile applications *(Flutter API integration only; mobile UI developed separately)*. [Case Study](https://moheb-alhuani.web.app/case/smart/)
-
+- **Zyaadah Platform (منصة زيادة)** (https://zyaadah.com/platform) — Participated in early-stage backend and platform development for this multi-tier e-commerce & delivery SaaS platform during my tenure at Infinite Cloud (not founder or sole developer).
+  
 > **Role Scope Note (Flutter):** My involvement with Flutter-based products is strictly on the **backend & REST API integration** side (designing, building, and maintaining Laravel APIs consumed by Flutter apps), not Flutter mobile UI development. Private client code and confidential operational data are not published.
 
 ## Core Technologies
 
-`Laravel` · `PHP` · `MySQL` · `Redis` · `REST APIs` · `Payment Integrations` · `System Architecture` · `Flutter API Integration` · `Git`
+`Laravel` · `PHP` · `MySQL` · `Redis` · `REST APIs` · `Payment Integrations` · `System Architecture` · `Flutter API Integration` · `Git` · `DevOps` · `CI/CD` · `GitHub Actions` · `Docker` · `Automated Testing` · `Linux Server Administration` · `Release Management` · `Backup & Recovery` · `Rollback Planning`
 
 ## Portfolio & contact
 
