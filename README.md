@@ -1,20 +1,20 @@
 # Hi, I'm Moheb Al-Huani 👋
 
-**Laravel Backend Developer | Full-Stack Web Developer**
+**Senior Laravel Backend & Full-Stack Web Developer (7+ yrs)**
 
-I build and maintain practical web systems, focusing on **Laravel, PHP, REST APIs, database-backed applications, e-commerce workflows, and system integrations**. My work spans backend architecture, business logic, technical integrations, testing, and deployment coordination.
+I design, build, and maintain production web systems, specializing in **Laravel, PHP, MySQL/Redis, REST APIs, Payment Integrations, and System Architecture**. My work spans backend architecture, business logic, database design, third-party integrations, testing, and deployment coordination.
 
-## Selected work
+## Selected Production Systems
 
-- **SMSM Market** — E-commerce platform; backend, integrations, and operational engineering. [Read the case study](https://moheb-alhuani.web.app/case/smsm/)
-- **Moka Sweets** — Business-focused web system. [Read the case study](https://moheb-alhuani.web.app/case/moka/)
-- **Smart Delivery** — Delivery-focused system. [Read the case study](https://moheb-alhuani.web.app/case/smart/)
+- **SMSM Market** — Production e-commerce marketplace. Built and maintained the Laravel storefront, merchant/admin dashboards, RESTful APIs, payment & delivery integrations, and the backend powering customer/seller mobile apps. [Case Study](https://moheb-alhuani.web.app/case/smsm/)
+- **Moka Sweets** — Online sweets ordering platform. Developed the Laravel backend, admin dashboard, website frontend, and REST APIs consumed by the Flutter customer app *(the Flutter mobile UI is built by another developer)*. [Case Study](https://moheb-alhuani.web.app/case/moka/)
+- **Smart Delivery** — Multi-category ordering and delivery platform. Built the Laravel backend services, order/store/delivery workflows, and REST APIs consumed by Flutter mobile applications *(Flutter API integration only; mobile UI developed separately)*. [Case Study](https://moheb-alhuani.web.app/case/smart/)
 
-> Project case studies describe scope and evidence. Private client code and confidential operational data are not published.
+> **Role Scope Note (Flutter):** My involvement with Flutter-based products is strictly on the **backend & REST API integration** side (designing, building, and maintaining Laravel APIs consumed by Flutter apps), not Flutter mobile UI development. Private client code and confidential operational data are not published.
 
-## Core technologies
+## Core Technologies
 
-`Laravel` · `PHP` · `REST APIs` · `MySQL` · `Web Development` · `Systems Integration` · `Git`
+`Laravel` · `PHP` · `MySQL` · `Redis` · `REST APIs` · `Payment Integrations` · `System Architecture` · `Flutter API Integration` · `Git`
 
 ## Portfolio & contact
 
